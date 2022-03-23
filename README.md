@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Miracle004
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on beginner projects to help me also
-- 📫 How to reach me 07047257990
+- 👀 I’m a frontend dev
+- 🌱 I’m currently aiming for fullstack devloper
+- 💞️ I’m looking to collaborate on group projects 
+- 📫 How to reach me ogunyemipelumi15@gmail.com
 
 <!---
 Miracle004/Miracle004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
