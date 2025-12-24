@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Miracle
+name: Pelumi
 role: Full-Stack Developer
 current_goal: Software Engineer
 interests: [Web Development, System Design, Problem Solving]
