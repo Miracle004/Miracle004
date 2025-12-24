@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./profile.png" alt="Profile" width="280" />
+  <!-- <img src="https://raw.githubusercontent.com/Miracle004/Miracle004/main/profile.png" alt="Profile" width="280" />
+   -->
+  <!-- <br><br> -->
   
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=2800&pause=2000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Miracle;Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=2800&pause=2000&color=A9B7C6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Pelumi;Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💻 Full-Stack Developer | Aspiring Software Engineer 💻</h3>
